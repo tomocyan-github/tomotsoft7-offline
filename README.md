@@ -11,4 +11,7 @@ equipped with ios13 or later
 
 ・起動時の画面のサイズが合わないことがあります。
  The size of the screen at startup may not match. 
+
+ 英語非対応です。すみません。
+ English not supported,sorry.
  
